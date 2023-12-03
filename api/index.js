@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/", (req, res) => {
     if (req.headers["user-agent"].includes("Twitterbot")) {
-        res.setHeader("Location", "https://www.mit.edu/");
+        res.setHeader("Location", "https://mit.edu/");
 
         return;
     }
