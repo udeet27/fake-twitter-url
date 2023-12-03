@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
         return;
     }
 
-    res.redirect(301, "https://manipal.edu/mit.html");
+    res.redirect(301, "https://chat.openai.com");
 });
 
 const port = process.env.PORT || 3000;
