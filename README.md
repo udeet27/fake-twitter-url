@@ -1,3 +1,6 @@
+example - https://x.com/stark__27/status/1731372263121756597?s=20
+
+
 # Phishing is too easy on 𝕏 (unfortunately)
 
 Demo: [https://twitter.com/webeyk/status/1731073202346926367](https://twitter.com/webeyk/status/1731073202346926367)
